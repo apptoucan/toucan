@@ -1,4 +1,4 @@
-# flangapp_app
+# toucanapp_app
 
 A new Flutter project.
 
